@@ -1,0 +1,11 @@
+{
+  "ads": [
+    {
+      "id": "1",
+      "imageUrl": "https://placehold.co/800x60/1a2634/c8a84b?text=Tu+publicidad+aqui",
+      "linkUrl": "https://ko-fi.com/skrpyrstskintracker",
+      "advertiser": "Rust Skin Tracker Pro",
+      "active": true
+    }
+  ]
+}
